@@ -1,0 +1,127 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 3rem;
+  margin: 50px auto 0 auto;
+}
+
+p{
+  line-height: 2;
+}
+
+h2{
+  color: #11999E;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+h3{
+  color: #11999E;
+
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.footer-link{
+  color: #11999E;
+}
+
+.middle-container{
+  margin: 100px auto;
+
+}
+
+.bottom-container{
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto ;
+  text-align: left;
+  line-height: 2;
+
+}
+
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+  hr{
+  border: dotted blue 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.computer{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.framework{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.btn {
+  background: #7634d9;
+  background-image: -webkit-linear-gradient(top, #7634d9, #013352);
+  background-image: -moz-linear-gradient(top, #7634d9, #013352);
+  background-image: -ms-linear-gradient(top, #7634d9, #013352);
+  background-image: -o-linear-gradient(top, #7634d9, #013352);
+  background-image: linear-gradient(to bottom, #7634d9, #013352);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #83fc3c;
+  background-image: -webkit-linear-gradient(top, #83fc3c, #00111c);
+  background-image: -moz-linear-gradient(top, #83fc3c, #00111c);
+  background-image: -ms-linear-gradient(top, #83fc3c, #00111c);
+  background-image: -o-linear-gradient(top, #83fc3c, #00111c);
+  background-image: linear-gradient(to bottom, #83fc3c, #00111c);
+  text-decoration: none;
+}
+
+a{
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: red;
+}
